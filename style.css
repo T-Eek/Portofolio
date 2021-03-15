@@ -1,0 +1,66 @@
+/* navigatiebar */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav {
+    display: inline-block;
+    background-color: white;
+}
+.nav li {
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    min-height: 100px;
+}
+.nav ul {
+    margin: none;
+    padding: none;
+    list-style: none;
+}
+.nav a {
+    text-decoration: none;
+}
+/* nav container*/
+.container {
+    background-color: white;
+}
+/*nu.nl logo*/
+.logo {
+    float: left;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+/* Kader */
+body{
+    margin: none;
+    padding: none;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+}
+/* Flexbox */
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* Flexbox items */
+.flexbox-item {
+    width: 300px;
+    margin: 0px;
+  }
+  .flexbox-item-1 {
+  min-height: 400px;
+  }
+  .flexbox-item-2 {
+  min-height: 400px;
+  margin: 0px;
+  width: 800px;
+  }
+  .flexbox-item-3 {
+  min-height: 200px;
+  }
