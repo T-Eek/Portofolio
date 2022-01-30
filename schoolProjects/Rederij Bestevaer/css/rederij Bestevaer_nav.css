@@ -1,0 +1,14 @@
+.nav {
+    display: center;
+    background-color: yellow;
+    list-style-type: none;
+    text-align: center;
+    margin: none;
+    padding: none;
+      }
+  .nav li {
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+      }
