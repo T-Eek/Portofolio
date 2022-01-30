@@ -1,0 +1,37 @@
+body {
+    background: lightgreen;
+}
+.nav {
+    display: center;
+    background-color: lightpink;
+    list-style-type: none;
+    text-align: center;
+    margin: none;
+    padding: none;
+}
+  .nav li {
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.border {
+    border-top: 2px solid black;    
+}
+.para1 {
+    background-color: lightcoral;
+}
+.para2 {
+    background-color: lightcoral;
+}
+.para3 {
+    background-color: lightcoral;
+}
+.mail {
+    display: flex;
+    justify-content: center ;
+    background-color: lightblue;  
+    margin: 10px;
+    padding: 10%;
+}
