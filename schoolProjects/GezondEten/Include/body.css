@@ -1,0 +1,9 @@
+    /* achtergrond */
+        body  {
+            background-image: url('https://www.easybox.nl/wp-content/uploads/2018/05/Groente.jpg');
+            background-color: lightgreen;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: 75% 100%;
+        }
