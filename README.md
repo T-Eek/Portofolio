@@ -1,3 +1,3 @@
 # Portofolio
 
-~More projects coming soon 😏
+~Future projects will coming soon 😏
